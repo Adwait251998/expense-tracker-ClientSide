@@ -1,0 +1,9 @@
+.registerForm {
+  max-width: 800px;
+  padding-bottom: 24px;
+}
+.registerForm label {
+  text-align: left;
+  width: 100%;
+  margin-bottom: 14px;
+}

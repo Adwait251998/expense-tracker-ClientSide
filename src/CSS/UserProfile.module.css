@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+.profileCard {
+  max-width: 500px;
+  margin: 60px auto;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  background: white;
+  padding: 30px;
+}
+.profileLabel {
+  font-weight: 600;
+  color: #6c757d;
+}
+.profileValue {
+  font-size: 1rem;
+  color: #212529;
+}
+.divider {
+  border-bottom: 1px solid #dee2e6;
+  margin: 15px 0;
+}
